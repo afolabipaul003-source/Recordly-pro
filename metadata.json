@@ -1,0 +1,8 @@
+{
+  "name": "Recordly",
+  "description": "Simple records, clear progress. Track payments, targets, and outstanding balances with private progress links.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
